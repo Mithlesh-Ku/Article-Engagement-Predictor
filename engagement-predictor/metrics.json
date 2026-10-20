@@ -1,0 +1,18 @@
+{
+  "model": "LinearSVC (calibrated)",
+  "accuracy": 0.8708,
+  "f1_high": 0.8705,
+  "n_train": 4800,
+  "n_test": 1200,
+  "confusion_matrix": [
+    [
+      524,
+      77
+    ],
+    [
+      78,
+      521
+    ]
+  ],
+  "synthetic_data": true
+}
